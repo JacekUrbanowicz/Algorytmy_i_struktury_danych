@@ -1,0 +1,8 @@
+Zbadaj, czy graf przedstawiony za pomoc¹ macierzy s¹siedztwa jest cyklem.
+
+Wejœcie:
+W pierwszej linii iloœæ grafów do sprawdzenia.
+W kolejnych liniach macierz s¹siedztwa wypisana od lewej do prawej z góry na dó³.
+
+Wyjœcie:
+W kolejnych liniach 1, jeœli graf jest cyklem lub 0 w przeciwnym przypadku.
