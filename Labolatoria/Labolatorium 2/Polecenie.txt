@@ -1,0 +1,7 @@
+Nale¿y posortowaæ zadany zbiór du¿ych liczb naturalnych, u¿ywaj¹c algorytmu 
+podanego przez prowadz¹cego
+
+(mo¿liwe ¿e mergesort zapytaj prowadz¹cego, -1024 pkt. wykorzystanie innego).
+
+Nie u¿ywaj wbudowanych funkcji sort(), qsort() oraz compare(), które rozwi¹zuj¹ czêœciowo 
+lub ca³kowicie problem (-512 pkt.).
