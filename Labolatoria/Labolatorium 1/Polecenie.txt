@@ -1,0 +1,22 @@
+ZnajdŸ pole wielok¹ta wypuk³ego. 
+Zapisz wierzcho³ki jako strukturê (key word: struct). 
+Spróbuj (nieobligatoryjne) nie u¿ywaæ list, vectorów, tablic etc.
+
+UWAGA! 
+W przypadku, gdy wynikiem jest liczba rzeczywista x, podaj na wyjœciu pod³ogê z 
+tej liczby lub int(x).
+
+Wejœcie:
+Wpó³rzêdne wierzcho³ków wielok¹ta tj.:
+
+l
+n x0 y0 x1 y1 x2 y2 x3 y3 ...  
+...
+
+l - liczba linii (liczba wielok¹tów)
+n - liczba wspó³rzêdnych (n/2 - liczba wierzcho³ków)
+xi,yi - wspó³rzêdne wierzcho³ków np. kwadrat (0,0), (0,2), (2,2), (2,0) to 0 0 0 2 2 2 2 0
+
+Wyjœcie:
+
+Pole wielok¹ta
