@@ -1,0 +1,10 @@
+Czy graf nie zawiera indukowanego szponu? 
+PodpowiedŸ: W teoriografowej nomenklaturze szpon to gwiazda na czterech wierzcho³kach.
+
+Wejœcie:
+W pierwszej linii liczba kolejnych linii. W kolejnych liniach. 
+Macierz s¹siedztwa zapisana w jednej linii po spacjach (od lewej do prawej oraz z góry na dó³).
+
+Wyjœcie:
+W kolejnych liniach jedna z poni¿szych odpowiedzi. Cyfra 0 oznaczaj¹ca fa³sz. 
+Cyfra 1 oznaczaj¹ca prawdê.
