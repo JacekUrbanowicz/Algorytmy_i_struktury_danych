@@ -1,0 +1,25 @@
+Twoim zadaniem jest zapakowanie samochodu. Masz do wyboru n przedmiotów
+Za przewóz i-tego przedmiotu mo¿esz uzyskaæ Pi z³otych (i=1,2,..,n).
+Waga i-tego przedmiotu wynosi Wi (i=1,2,..,n).
+Masa towaru w samochodzie nie mo¿e przekroczyæ wartoœci C.
+Upakuj samochód optymalnie, tj. tak by suma wag nie przekroczy³a C oraz suma z³otych by³a najwiêksza.
+
+Dodatkowe informacje
+
+Maksymalna iloœæ przedmiotów: 15.
+Minimalny element w P i W: 0
+Maksymalny element (najwiêksza wartoœæ) w P i W: 1000
+Liczba testów: 1.
+Iloœæ zapytañ (liczba iteracji g³ównej pêtli): 500.
+Próba wstawienia wyniku - brak zaliczonego przedmiotu.
+
+Wejœcie:
+W kolejnych liniach (jeden samochód jest reprezentowany przez 4 kolejne linie).
+Iloœæ przedmiotów.
+Wyp³aty za przedmiot.
+Wagi przedmiotów.
+£adownoœæ wozu.
+
+Wyjœcie:
+W kolejnych liniach.
+Optymalny profit.
