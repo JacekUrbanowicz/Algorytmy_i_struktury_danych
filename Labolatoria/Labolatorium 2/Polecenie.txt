@@ -5,3 +5,9 @@ podanego przez prowadz¹cego
 
 Nie u¿ywaj wbudowanych funkcji sort(), qsort() oraz compare(), które rozwi¹zuj¹ czêœciowo 
 lub ca³kowicie problem (-512 pkt.).
+
+Wejœcie:
+W pierwszej linii liczba elementów zbioru N, w nastêpnych N liniach liczby do posortowania.
+
+Wyjœcie:
+Posortowany ci¹g wyrazów w kolejnoœci niemalej¹cej, rozdzielony znakiem nowej linii.
